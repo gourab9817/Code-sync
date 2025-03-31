@@ -37,7 +37,7 @@ Code-sync is an advanced collaborative platform designed for real-time synchroni
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/gourab9817/Code-sync.git
 
    
 
